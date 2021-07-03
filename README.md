@@ -1,4 +1,1 @@
-hoge テスト
-
-huga テスト
-huga
+hoge hoge
